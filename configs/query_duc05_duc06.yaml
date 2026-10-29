@@ -1,0 +1,71 @@
+# ==============================================================================
+# TODO: DUC 2005 / DUC 2006 dataset is currently not present in the workspace.
+# Place raw or extracted NIST data in `data/duc2006` or update `data_dir` below.
+# See `data/README.md` for format instructions.
+# ==============================================================================
+task_type: query_focused
+dataset_name: duc2006
+data_dir: data/duc2006  # TODO: Point to your DUC 2006 data directory
+output_dir: outputs
+seed: 42
+
+preprocessing:
+  min_sentence_chars: 15
+  min_sentence_words: 3
+  lowercase: true
+  remove_punctuation: true
+  remove_stopwords: true
+  use_stemming: true
+  ngram_range: [1, 2]
+  sublinear_tf: true
+  max_vocab_size: null
+  instruction_words:
+    - describe
+    - explain
+    - identify
+    - discuss
+    - provide
+    - background
+    - information
+    - detail
+    - details
+    - give
+    - overview
+    - summarize
+    - summary
+
+similarity:
+  metric: cosine
+  method: lsa  # Semantic similarity via LSA (or tfidf / hybrid)
+  lsa_components: 50
+  hybrid_weight: 0.5
+  keep_diagonal: false
+  clip_negative: true
+  use_sparse_threshold: 2000
+
+objective:
+  alpha: 0.20
+  lambda_weight: 4.0
+  beta: 0.50
+  k_ratio: 0.10
+  concave_func: sqrt
+  use_query_aware_coverage: true
+  query_coverage_gamma: 0.30
+  query_coverage_eta: 0.20
+  query_coverage_alpha_q: 0.50
+
+optimizer:
+  budget_type: words
+  budget_limit: 250
+  enforce_strict_budget: true
+  modified_greedy_guarantee: false
+  sort_order: document_order
+  random_seed: 42
+  mmr_lambda: 0.70
+
+evaluation:
+  metrics: [rouge1, rouge2, rougeL]
+  bootstrap_samples: 1000
+  confidence_level: 0.95
+  seed: 42
+

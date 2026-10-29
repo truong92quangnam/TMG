@@ -1,0 +1,257 @@
+Mr. Obama found himself in September standing uncomfortably beside the president of Brazil, Dilma Rousseff, who was furious at being named as a target of N.S.A. eavesdropping. Since then, there has been a parade of such protests, from the European Union, Mexico, France, Germany and Spain. Chagrined American officials joke that soon there will be complaints from foreign leaders feeling slighted because the agency had not targeted them. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ James R. Clapper Jr., the director of national intelligence, has repeatedly dismissed such objections as brazen hypocrisy from countries that do their own share of spying. But in a recent interview, he acknowledged that the scale of eavesdropping by the N.S.A., with 35,000 workers and $10.8 billion a year, sets it apart. “There’s no question that from a capability standpoint we probably dwarf everybody on the planet, just about, with perhaps the exception of Russia and China,” he said. 
+ 
+ Since Edward J. Snowden began releasing the agency’s documents in June, the unrelenting stream of disclosures has opened the most extended debate on the agency’s mission since its creation in 1952. The scrutiny has ignited a crisis of purpose and legitimacy for the N.S.A., the nation’s largest intelligence agency, and the White House has ordered a review of both its domestic and its foreign intelligence collection. While much of the focus has been on whether the agency violates Americans’ privacy, an issue under examination by Congress and two review panels, the anger expressed around the world about American surveillance has prompted far broader questions. 
+ 
+ If secrecy can no longer be taken for granted, when does the political risk of eavesdropping overseas outweigh its intelligence benefits? Should foreign citizens, many of whom now rely on American companies for email and Internet services, have any privacy protections from the N.S.A.? Will the American Internet giants’ collaboration with the agency, voluntary or otherwise, damage them in international markets? And are the agency’s clandestine efforts to weaken encryption making the Internet less secure for everyone? 
+ 
+ Advertisement Continue reading the main story 
+ 
+ Matthew M. Aid, an intelligence historian and author of a 2009 book on the N.S.A., said there is no precedent for the hostile questions coming at the agency from all directions. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ “From N.S.A.’s point of view, it’s a disaster,” Mr. Aid said. “Every new disclosure reinforces the notion that the agency needs to be reined in. There are political consequences, and there will be operational consequences.” 
+ 
+ Advertisement Continue reading the main story 
+ 
+ A review of classified agency documents obtained by Mr. Snowden and shared with The New York Times by The Guardian, offers a rich sampling of the agency’s global operations and culture. (At the agency’s request, The Times is withholding some details that officials said could compromise intelligence operations.) The N.S.A. seems to be listening everywhere in the world, gathering every stray electron that might add, however minutely, to the United States government’s knowledge of the world. To some Americans, that may be a comfort. To others, and to people overseas, that may suggest an agency out of control. 
+ 
+ Photo 
+ 
+ The C.I.A. dispatches undercover officers overseas to gather intelligence today roughly the same way spies operated in biblical times. But the N.S.A., born when the long-distance call was a bit exotic, has seen its potential targets explode in number with the advent of personal computers, the Internet and cellphones. Today’s N.S.A. is the Amazon of intelligence agencies, as different from the 1950s agency as that online behemoth is from a mom-and-pop bookstore. It sucks the contents from fiber-optic cables, sits on telephone switches and Internet hubs, digitally burglarizes laptops and plants bugs on smartphones around the globe. 
+ 
+ Mr. Obama and top intelligence officials have defended the agency’s role in preventing terrorist attacks. But as the documents make clear, the focus on counterterrorism is a misleadingly narrow sales pitch for an agency with an almost unlimited agenda. Its scale and aggressiveness are breathtaking. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ The agency’s Dishfire database — nothing happens without a code word at the N.S.A. — stores years of text messages from around the world, just in case. Its Tracfin collection accumulates gigabytes of credit card purchases. The fellow pretending to send a text message at an Internet cafe in Jordan may be using an N.S.A. technique code-named Polarbreeze to tap into nearby computers. The Russian businessman who is socially active on the web might just become food for Snacks, the acronym-mad agency’s Social Network Analysis Collaboration Knowledge Services, which figures out the personnel hierarchies of organizations from texts. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ The spy agency’s station in Texas intercepted 478 emails while helping to foil a jihadist plot to kill a Swedish artist who had drawn pictures of the Prophet Muhammad. N.S.A. analysts delivered to authorities at Kennedy International Airport the names and flight numbers of workers dispatched by a Chinese human smuggling ring. 
+ 
+ The agency’s eavesdropping gear, aboard a Defense Department plane flying 60,000 feet over Colombia, fed the location and plans of FARC rebels to the Colombian Army. In the Orlandocard operation, N.S.A. technicians set up what they called a “honeypot” computer on the web that attracted visits from 77,413 foreign computers and planted spyware on more than 1,000 that the agency deemed of potential future interest. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ The Global Phone Book 
+ 
+ No investment seems too great if it adds to the agency’s global phone book. After mounting a major eavesdropping effort focused on a climate change conference in Bali in 2007, agency analysts stationed in Australia’s outback were especially thrilled by one catch: the cellphone number of Bali’s police chief. 
+ 
+ “Our mission,” says the agency’s current five-year plan, which has not been officially scheduled for declassification until 2032, “is to answer questions about threatening activities that others mean to keep hidden.” 
+ 
+ Advertisement Continue reading the main story 
+ 
+ The aspirations are grandiose: to “utterly master” foreign intelligence carried on communications networks. The language is corporate: “Our business processes need to promote data-driven decision-making.” But the tone is also strikingly moralistic for a government bureaucracy. Perhaps to counter any notion that eavesdropping is a shady enterprise, signals intelligence, or Sigint, the term of art for electronic intercepts, is presented as the noblest of callings. 
+ 
+ “Sigint professionals must hold the moral high ground, even as terrorists or dictators seek to exploit our freedoms,” the plan declares. “Some of our adversaries will say or do anything to advance their cause; we will not.” 
+ 
+ Advertisement Continue reading the main story 
+ 
+ The N.S.A. documents taken by Mr. Snowden and shared with The Times, numbering in the thousands and mostly dating from 2007 to 2012, are part of a collection of about 50,000 items that focus mainly on its British counterpart, Government Communications Headquarters or G.C.H.Q. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ While far from comprehensive, the documents give a sense of the agency’s reach and abilities, from the Navy ships snapping up radio transmissions as they cruise off the coast of China, to the satellite dishes at Fort Meade in Maryland ingesting worldwide banking transactions, to the rooftops of 80 American embassies and consulates around the world from which the agency’s Special Collection Service aims its antennas. 
+ 
+ Photo 
+ 
+ The agency and its many defenders among senior government officials who have relied on its top secret reports say it is crucial to American security and status in the world, pointing to terrorist plots disrupted, nuclear proliferation tracked and diplomats kept informed. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ But the documents released by Mr. Snowden sometimes also seem to underscore the limits of what even the most intensive intelligence collection can achieve by itself. Blanket N.S.A. eavesdropping in Afghanistan, described in the documents as covering government offices and the hide-outs of second-tier Taliban militants alike, has failed to produce a clear victory against a low-tech enemy. The agency kept track as Syria amassed its arsenal of chemical weapons — but that knowledge did nothing to prevent the gruesome slaughter outside Damascus in August. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ The documents are skewed toward celebration of the agency’s self-described successes, as underlings brag in PowerPoints to their bosses about their triumphs and the managers lay out grand plans. But they do not entirely omit the agency’s flubs and foibles: flood tides of intelligence gathered at huge cost that goes unexamined; intercepts that cannot be read for lack of language skills; and computers that — even at the N.S.A. — go haywire in all the usual ways. 
+ 
+ Mapping Message Trails 
+ 
+ In May 2009, analysts at the agency learned that Iran’s supreme leader, Ayatollah Ali Khamenei, was to make a rare trip to Kurdistan Province in the country’s mountainous northwest. The agency immediately organized a high-tech espionage mission, part of a continuing project focused on Ayatollah Khamenei called Operation Dreadnought. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ Working closely with the National Geospatial-Intelligence Agency, which handles satellite photography, as well as G.C.H.Q., the N.S.A. team studied the Iranian leader’s entourage, its vehicles and its weaponry from satellites, and intercepted air traffic messages as planes and helicopters took off and landed. 
+ 
+ They heard Ayatollah Khamenei’s aides fretting about finding a crane to load an ambulance and fire truck onto trucks for the journey. They listened as he addressed a crowd, segregated by gender, in a soccer field. 
+ 
+ They studied Iranian air defense radar stations and recorded the travelers’ rich communications trail, including Iranian satellite coordinates collected by an N.S.A. program called Ghosthunter. The point was not so much to catch the Iranian leader’s words, but to gather the data for blanket eavesdropping on Iran in the event of a crisis. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ This “communications fingerprinting,” as a document called it, is the key to what the N.S.A. does. It allows the agency’s computers to scan the stream of international communications and pluck out messages tied to the supreme leader. In a crisis — say, a showdown over Iran’s nuclear program — the ability to tap into the communications of leaders, generals and scientists might give a crucial advantage. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ On a more modest scale, the same kind of effort, what N.S.A. calls “Sigint development,” was captured in a document the agency obtained in 2009 from Somalia — whether from a human source or an electronic break-in was not noted. It contained email addresses and other contact details for 117 selected customers of a Mogadishu Internet service, Globalsom. 
+ 
+ While most on the list were Somali officials or citizens, presumably including some suspected of militancy, the document also included emails for a United Nations political officer in Mogadishu and a local representative for the charity World Vision, among other international institutions. All, it appeared, were considered fair game for monitoring. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ This huge investment in collection is driven by pressure from the agency’s “customers,” in government jargon, not only at the White House, Pentagon, F.B.I. and C.I.A., but also spread across the Departments of State and Energy, Homeland Security and Commerce, and the United States Trade Representative. 
+ 
+ Photo 
+ 
+ By many accounts, the agency provides more than half of the intelligence nuggets delivered to the White House early each morning in the President’s Daily Brief — a measure of success for American spies. (One document boasts that listening in on Nigerian State Security had provided items for the briefing “nearly two dozen” times.) In every international crisis, American policy makers look to the N.S.A. for inside information. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ Pressure to Get Everything 
+ 
+ That creates intense pressure not to miss anything. When that is combined with an ample budget and near-invisibility to the public, the result is aggressive surveillance of the kind that has sometimes gotten the agency in trouble with the Foreign Intelligence Surveillance Court, a United States federal court that polices its programs for breaches of Americans’ privacy. 
+ 
+ In the funding boom that followed the Sept. 11 attacks, the agency expanded and decentralized far beyond its Fort Meade headquarters in Maryland, building or expanding major facilities in Georgia, Texas, Colorado, Hawaii, Alaska, Washington State and Utah. Its officers also operate out of major overseas stations in England, Australia, South Korea and Japan, at overseas military bases, and from locked rooms housing the Special Collection Service inside American missions abroad. 
+ 
+ The agency, using a combination of jawboning, stealth and legal force, has turned the nation’s Internet and telecommunications companies into collection partners, installing filters in their facilities, serving them with court orders, building back doors into their software and acquiring keys to break their encryption. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ But even that vast American-run web is only part of the story. For decades, the N.S.A. has shared eavesdropping duties with the rest of the so-called Five Eyes, the Sigint agencies of Britain, Canada, Australia and New Zealand. More limited cooperation occurs with many more countries, including formal arrangements called Nine Eyes and 14 Eyes and Nacsi, an alliance of the agencies of 26 NATO countries. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ The extent of Sigint sharing can be surprising: “N.S.A. may pursue a relationship with Vietnam,” one 2009 G.C.H.Q. document reported. But a recent G.C.H.Q. training document suggests that not everything is shared, even between the United States and Britain. “Economic well-being reporting,” it says, referring to intelligence gathered to aid the British economy, “cannot be shared with any foreign partner.” 
+ 
+ As at the school lunch table, decisions on who gets left out can cause hurt feelings: “Germans were a little grumpy at not being invited to join the 9-Eyes group,” one 2009 document remarks. And in a delicate spy-versus-spy dance, sharing takes place even with governments that are themselves important N.S.A. targets, notably Israel. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ The documents describe collaboration with the Israel Sigint National Unit, which gets raw N.S.A. eavesdropping material and provides it in return, but they also mention the agency’s tracking of “high priority Israeli military targets,” including drone aircraft and the Black Sparrow missile system. 
+ 
+ Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up Receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters. 
+ 
+ The alliances, and the need for stealth, can get complicated. At one highly valued overseas listening post, the very presence of American N.S.A. personnel violates a treaty agreed to by the agency’s foreign host. Even though much of the eavesdropping is run remotely from N.S.A.’s base at Fort Gordon, Ga., Americans who visit the site must pose as contractors, carry fake business cards and are warned: “Don’t dress as typical Americans." 
+ 
+ “Know your cover legend,” a PowerPoint security briefing admonishes the N.S.A. staff members headed to the overseas station, directing them to “sanitize personal effects,” send no postcards home and buy no identifiably local souvenirs. (“An option might be jewelry. Most jewelry does not have any markings” showing its place of origin.) 
+ 
+ Advertisement Continue reading the main story 
+ 
+ Bypassing Security 
+ 
+ In the agency’s early years, its brainy staff members — it remains the largest employer of mathematicians in the country — played an important role in the development of the first computers, then largely a tool for code breaking. 
+ 
+ Photo 
+ 
+ Today, with personal computers, laptops, tablets and smartphones in most homes and government offices in the developed world, hacking has become the agency’s growth area. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ Some of Mr. Snowden’s documents describe the exploits of Tailored Access Operations, the prim name for the N.S.A. division that breaks into computers around the world to steal the data inside, and sometimes to leave spy software behind. T.A.O. is increasingly important in part because it allows the agency to bypass encryption by capturing messages as they are written or read, when they are not encoded. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ In Baghdad, T.A.O. collected messages left in draft form in email accounts maintained by leaders of the Islamic State of Iraq, a militant group. Under a program called Spinaltap, the division’s hackers identified 24 unique Internet Protocol addresses identifying computers used by the Lebanese militant group Hezbollah, making it possible to snatch Hezbollah messages from the flood of global communications sifted by the agency. 
+ 
+ The N.S.A.’s elite Transgression Branch, created in 2009 to “discover, understand, evaluate and exploit” foreign hackers’ work, quietly piggybacks on others’ incursions into computers of interest, like thieves who follow other housebreakers around and go through the windows they have left ajar. 
+ 
+ In one 2010 hacking operation code-named Ironavenger, for instance, the N.S.A. spied simultaneously on an ally and an adversary. Analysts spotted suspicious emails being sent to a government office of great intelligence interest in a hostile country and realized that an American ally was “spear-phishing” — sending official-looking emails that, when opened, planted malware that let hackers inside. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ The Americans silently followed the foreign hackers, collecting documents and passwords from computers in the hostile country, an elusive target. They got a look inside that government and simultaneously got a close-up look at the ally’s cyberskills, the kind of intelligence twofer that is the unit’s specialty. 
+ 
+ In many other ways, advances in computer and communications technology have been a boon for the agency. N.S.A. analysts tracked the electronic trail left by a top leader of Al Qaeda in Africa each time he stopped to use a computer on his travels. They correctly predicted his next stop, and the police were there to arrest him. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ And at the big N.S.A. station at Fort Gordon, technicians developed an automated service called “Where’s My Node?” that sent an email to an analyst every time a target overseas moved from one cell tower to another. Without lifting a finger, an analyst could follow his quarry’s every move. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ The Limits of Spying 
+ 
+ The techniques described in the Snowden documents can make the N.S.A. seem omniscient, and nowhere in the world is that impression stronger than in Afghanistan. But the agency’s capabilities at the tactical level have not been nearly enough to produce clear-cut strategic success there, in the United States’ longest war. 
+ 
+ A single daily report from June 2011 from the N.S.A.’s station in Kandahar, Afghanistan, the heart of Taliban country, illustrates the intensity of eavesdropping coverage, requiring 15 pages to describe a day’s work. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ The agency listened while insurgents from the Haqqani network mounted an attack on the Hotel Intercontinental in Kabul, overhearing the attackers talking to their bosses in Pakistan’s tribal area and recording events minute by minute. “Ruhullah claimed he was on the third floor and had already inflicted one casualty,” the report said in a typical entry. “He also indicated that Hafiz was located on a different floor.” 
+ 
+ Photo 
+ 
+ N.S.A. officers listened as two Afghan Foreign Ministry officials prepared for a meeting between President Hamid Karzai of Afghanistan and Iranian officials, assuring them that relations with the United States “would in no way threaten the interests of Iran,” which they decided Mr. Karzai should describe as a “brotherly country.” 
+ 
+ The N.S.A. eavesdropped as the top United Nations official in Afghanistan, Staffan de Mistura, consulted his European Union counterpart, Vygaudas Usackas, about how to respond to an Afghan court’s decision to overturn the election of 62 members of Parliament. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ And the agency was a fly on the wall for a long-running land dispute between the mayor of Kandahar and a prominent local man known as the Keeper of the Cloak of the Prophet Muhammad, with President Karzai’s late brother, Ahmed Wali Karzai, as a mediator. 
+ 
+ The agency discovered a Taliban claim to have killed five police officers at a checkpoint by giving them poisoned yogurt, and heard a provincial governor tell an aide that a district police chief was verbally abusing women and clergymen. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ A Taliban figure, Mullah Rahimullah Akhund, known on the United States military’s kill-or-capture list by the code name Objective Squiz Incinerator, was overheard instructing an associate to buy suicide vests and a Japanese motorbike, according to the documents. 
+ 
+ And N.S.A. listened in as a Saudi extremist, Abu Mughira, called his mother to report that he and his fellow fighters had entered Afghanistan and “done victorious operations.” 
+ 
+ Such reports flowed from the agency’s Kandahar station day after day, year after year, and surely strengthened the American campaign against the Taliban. But they also suggest the limits of intelligence against a complex political and military challenge. The N.S.A. recorded the hotel attack, but it had not prevented it. It tracked Mr. Karzai’s government, but he remained a difficult and volatile partner. Its surveillance was crucial in the capture or killing of many enemy fighters, but not nearly enough to remove the Taliban’s ominous shadow from Afghanistan’s future. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ Mining All the Tidbits 
+ 
+ In the Afghan reports and many others, a striking paradox is the odd intimacy of a sprawling, technology-driven agency with its targets. It is the one-way intimacy of the eavesdropper, as N.S.A. employees virtually enter the office cubicles of obscure government officials and the Spartan hide-outs of drug traffickers and militants around the world. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ Venezuela, for instance, was one of six “enduring targets” in N.S.A.’s official mission list from 2007, along with China, North Korea, Iraq, Iran and Russia. The United States viewed itself in a contest for influence in Latin America with Venezuela’s leader then, the leftist firebrand Hugo Chávez, who allied himself with Cuba, and one agency goal was “preventing Venezuela from achieving its regional leadership objectives and pursuing policies that negatively impact U.S. global interests.” 
+ 
+ A glimpse of what this meant in practice comes in a brief PowerPoint presentation from August 2010 on “Development of the Venezuelan Economic Mission.” The N.S.A. was tracking billions of dollars flowing to Caracas in loans from China (radar systems and oil drilling), Russia (MIG fighter planes and shoulder-fired missiles) and Iran (a factory to manufacture drone aircraft). 
+ 
+ Advertisement Continue reading the main story 
+ 
+ But it was also getting up-close and personal with Venezuela’s Ministry of Planning and Finance, monitoring the government and personal emails of the top 10 Venezuelan economic officials. An N.S.A. officer in Texas, in other words, was paid each day to peruse the private messages of obscure Venezuelan bureaucrats, hunting for tidbits that might offer some tiny policy edge. 
+ 
+ Photo 
+ 
+ In a counterdrug operation in late 2011, the agency’s officers seemed to know more about relations within a sprawling narcotics network than the drug dealers themselves. They listened to “Ricketts,” a Jamaican drug supplier based in Ecuador, struggling to keep his cocaine and marijuana smuggling business going after an associate, “Gordo,” claimed he had paid $250,000 and received nothing in return. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ The N.S.A., a report said, was on top of not just their cellphones, but also those of the whole network of “buyers, transporters, suppliers, and middlemen” stretching from the Netherlands and Nova Scotia to Panama City and Bogotá, Colombia. The documents do not say whether arrests resulted from all that eavesdropping. 
+ 
+ Even with terrorists, N.S.A. units can form a strangely personal relationship. The N.S.A.-G.C.H.Q. wiki, a top secret group blog that Mr. Snowden downloaded, lists 14 specialists scattered in various stations assigned to Lashkar-e-Taiba, the Pakistani terrorist group that carried out the bloody attack on Mumbai in 2008, with titles including “Pakistan Access Pursuit Team” and “Techniques Discovery Branch.” Under the code name Treaclebeta, N.S.A.’s hackers at Tailored Access Operations also played a role. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ In the wiki’s casual atmosphere, American and British eavesdroppers exchange the peculiar shoptalk of the secret world. “I don’t normally use Heretic to scan the fax traffic, I use Nucleon,” one user writes, describing technical tools for searching intercepted documents. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ But most striking are the one-on-one pairings of spies and militants; Bryan is assigned to listen in on a man named Haroon, and Paul keeps an ear on Fazl. 
+ 
+ A Flood of Details 
+ 
+ One N.S.A. officer on the Lashkar-e-Taiba beat let slip that some of his eavesdropping turned out to be largely pointless, perhaps because of the agency’s chronic shortage of skilled linguists. He “ran some queries” to read intercepted communications of certain Lashkar-e-Taiba members, he wrote in the wiki, but added: “Most of it is in Arabic or Farsi, so I can’t make much of it.” 
+ 
+ It is a glimpse of the unsurprising fact that sometimes the agency’s expensive and expansive efforts accomplish little. Despite the agency’s embrace of corporate jargon on goal-setting and evaluation, it operates without public oversight in an arena in which achievements are hard to measure. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ In a world of ballooning communications, the agency is sometimes simply overwhelmed. In 2008, the N.S.A.’s Middle East and North Africa group set about updating its Sigint collection capabilities. The “ambitious scrub” of selectors — essentially search terms — cut the number of terms automatically searched from 21,177 to 7,795 and the number of messages added to the agency’s Pinwale database from 850,000 a day to 450,000 a day. 
+ 
+ The reduction in volume was treated as a major achievement, opening the way for new collection on Iranian leadership and Saudi and Syrian diplomats, the report said. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ And in a note that may comfort computer novices, the N.S.A. Middle East analysts discovered major glitches in their search software: The computer was searching for the names of targets but not their email addresses, a rather fundamental flaw. “Over 500 messages in one week did not come in,” the report said about one target. 
+ 
+ Those are daily course corrections. Whether the Snowden disclosures will result in deeper change is uncertain. Joel F. Brenner, the agency’s former inspector general, says much of the criticism is unfair, reflecting a naïveté about the realpolitik of spying. “The agency is being browbeaten for doing too well the things it’s supposed to do,” he said. 
+ 
+ But Mr. Brenner added that he believes “technology has outrun policy” at the N.S.A., and that in an era in which spying may well be exposed, “routine targeting of close allies is bad politics and is foolish.” 
+ 
+ Another former insider worries less about foreign leaders’ sensitivities than the potential danger the sprawling agency poses at home. William E. Binney, a former senior N.S.A. official who has become an outspoken critic, says he has no problem with spying on foreign targets like Brazil’s president or the German chancellor, Angela Merkel. “That’s pretty much what every government does,” he said. “It’s the foundation of diplomacy.” But Mr. Binney said that without new leadership, new laws and top-to-bottom reform, the agency will represent a threat of “turnkey totalitarianism” — the capability to turn its awesome power, now directed mainly against other countries, on the American public. 
+ 
+ Advertisement Continue reading the main story 
+ 
+ “I think it’s already starting to happen,” he said. “That’s what we have to stop.” 
+ 
+ Whatever reforms may come, Bobby R. Inman, who weathered his own turbulent period as N.S.A. director from 1977 to 1981, offers his hyper-secret former agency a radical suggestion for right now. “My advice would be to take everything you think Snowden has and get it out yourself,” he said. “It would certainly be a shock to the agency. But bad news doesn’t get better with age. The sooner they get it out and put it behind them, the faster they can begin to rebuild.”

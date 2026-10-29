@@ -1,0 +1,48 @@
+task_type: generic
+dataset_name: duc2004
+data_dir: data/duc2004
+output_dir: outputs
+seed: 42
+
+preprocessing:
+  min_sentence_chars: 15
+  min_sentence_words: 3
+  lowercase: true
+  remove_punctuation: true
+  remove_stopwords: true
+  use_stemming: true
+  ngram_range: [1, 2]
+  sublinear_tf: true
+  max_vocab_size: null
+
+similarity:
+  metric: cosine
+  method: lsa  # Semantic similarity via Latent Semantic Analysis (or tfidf / hybrid)
+  lsa_components: 50
+  hybrid_weight: 0.5
+  keep_diagonal: false
+  clip_negative: true
+  use_sparse_threshold: 2000
+
+objective:
+  alpha: 0.20
+  lambda_weight: 4.0
+  beta: 0.50
+  k_ratio: 0.10
+  concave_func: sqrt
+
+optimizer:
+  budget_type: words
+  budget_limit: 100
+  enforce_strict_budget: true
+  modified_greedy_guarantee: false
+  sort_order: document_order
+  random_seed: 42
+  mmr_lambda: 0.70
+
+evaluation:
+  metrics: [rouge1, rouge2, rougeL]
+  bootstrap_samples: 1000
+  confidence_level: 0.95
+  seed: 42
+

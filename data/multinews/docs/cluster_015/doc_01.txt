@@ -1,0 +1,37 @@
+From Tulane University School of Public Health and Tropical Medicine, New Orleans, Louisiana; Kaiser Permanente Southern California, Pasadena, California; and Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland. 
+ 
+ Acknowledgment: The authors thank the study participants for their cooperation. 
+ 
+ Grant Support: From the National Center for Research Resources of the National Institutes of Health (NIH/NCRR P20-RR017659) to the Tulane University Hypertension and Renal Center of Excellence. 
+ 
+ Disclosures: Disclosures can be viewed at www.acponline.org/authors/icmje/ConflictOfInterestForms.do?msNum=M14-0180. 
+ 
+ Reproducible Research Statement:Study protocol and data set: Not available. Statistical code: Available from Dr. Bazzano (e-mail, lbazzano@tulane.edu). 
+ 
+ Requests for Single Reprints: Lydia Bazzano, MD, PhD, MPH, Tulane University School of Public Health and Tropical Medicine, 1440 Canal Street, SL-18, Suite 2000, New Orleans, LA 70112; e-mail, lbazzano@tulane.edu. 
+ 
+ Current Author Ad dresses: Drs. Bazzano, Hu, Yao, Whelton, and He; Ms. Bunol; Ms. Liu; and Ms. Chen: Department of Epidemiology, Tulane University School of Public Health and Tropical Medicine, 1440 Canal Street, SL-18, Suite 2000, New Orleans, LA 70112. 
+ 
+ Dr. Reynolds: Kaiser Permanente Southern California, 100 South Los Robles, 2nd Floor, Pasadena, CA 91101. 
+ 
+ Dr. Klag: Johns Hopkins Bloomberg School of Public Health, 615 North Wolfe Street, Room W1041, Baltimore, MD 21205. 
+ 
+ Author Contributions: Conception and design: L.A. Bazzano, T. Hu, K. Reynolds, L. Yao, M.J. Klag, J. He. 
+ 
+ Analysis and interpretation of the data: L.A. Bazzano, T. Hu, Y. Liu, C.S. Chen, M.J. Klag, P.K. Whelton, J. He. 
+ 
+ Drafting of the article: L.A. Bazzano, T. Hu. 
+ 
+ Critical revision of the article for important intellectual content: L.A. Bazzano, T. Hu, K. Reynolds, L. Yao, P.K. Whelton, J. He. 
+ 
+ Final approval of the article: L.A. Bazzano, K. Reynolds, M.J. Klag, P.K. Whelton, J. He. 
+ 
+ Provision of study materials or patients: L.A. Bazzano, C. Bunol. 
+ 
+ Statistical expertise: T. Hu, C.S. Chen. 
+ 
+ Obtaining of funding: L.A. Bazzano. 
+ 
+ Administrative, technical, or logistic support: L.A. Bazzano, L. Yao, C. Bunol. 
+ 
+ Collection and assembly of data: L.A. Bazzano, L. Yao, C.S. Chen, J. He.
